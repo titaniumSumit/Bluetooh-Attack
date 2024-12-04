@@ -54,3 +54,26 @@ bluetooth-attack-demo/
   ``` 
   ./tools/scan_and_pair.sh <TARGET_MAC>
   ```
+## Make all scripts executable:
+
+```bash
+chmod +x tools/*.sh
+chmod +x setup.sh
+```
+Ensure setup.sh calls the other scripts correctly using relative paths.
+
+2. How to Run
+   
+Clone the repository
+```bash
+git clone https://github.com/<username>/bluetooth-attack-demo.git
+cd bluetooth-attack-demo
+```
+Make setup.sh executable:
+```bash
+chmod +x setup.sh
+```
+Run the script:
+```bash
+./setup.sh
+```
