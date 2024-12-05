@@ -1,4 +1,4 @@
-# Bluetooth Attack Demo
+# Bluetooth Attack 😈
 **Disclaimer**: This repository is for educational purposes only. Use responsibly and only in environments where you have explicit permission.
 
 This project demonstrates how to disrupt a Bluetooth speaker connection and establish a new connection to play arbitrary audio.
