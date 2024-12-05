@@ -65,9 +65,9 @@ Ensure setup.sh calls the other scripts correctly using relative paths.
 2. How to Run
    
 Clone the repository
-```bash
-git clone https://github.com/titaniumSumit/bluetooth-attack-demo.git
-cd bluetooth-attack-demo
+```bash[
+git clone https://github.com/titaniumSumit/Bluetooh-Attack.git
+cd Bluetooth-Attack
 ```
 Make setup.sh executable:
 ```bash
