@@ -20,6 +20,7 @@ This project demonstrates how to disrupt a Bluetooth speaker connection and esta
 The authors are not responsible for misuse of this project
 
 # Repository Structure 🌵
+```
 ├── README.md           # Overview of the project and usage instructions
 ├── LICENSE             # Add a license (e.g., MIT, GPL)
 bluetooth-attack-demo/
@@ -31,7 +32,7 @@ bluetooth-attack-demo/
     ├── usage.md        # Detailed guide on using the scripts
     ├── setup.md        # Prerequisites and setup instructions
     └── defense.md      # Guide for protecting against similar attacks
-
+```
 # Usage Guide
 ## Prerequisites
 - Install `bluetoothctl`, `hcitool`, `l2ping`, and `macchanger`.
