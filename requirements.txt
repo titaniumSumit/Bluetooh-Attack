@@ -1,0 +1,3 @@
+bluetoothctl
+hcitool
+l2ping
